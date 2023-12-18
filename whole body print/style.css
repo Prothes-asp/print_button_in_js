@@ -1,0 +1,21 @@
+.print{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+#btn{
+    font-size: 50px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+

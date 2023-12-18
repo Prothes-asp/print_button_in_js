@@ -1,0 +1,10 @@
+#btn{
+    background-color: transparent;
+    font-size: 30px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    position: fixed;
+    top: 0;
+    right: 20px;
+}
